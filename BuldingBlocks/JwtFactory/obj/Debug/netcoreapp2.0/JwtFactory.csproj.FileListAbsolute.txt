@@ -1,0 +1,9 @@
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\bin\Debug\netcoreapp2.0\JwtFactory.deps.json
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\bin\Debug\netcoreapp2.0\JwtFactory.dll
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\bin\Debug\netcoreapp2.0\JwtFactory.pdb
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\obj\Debug\netcoreapp2.0\JwtFactory.csprojAssemblyReference.cache
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\obj\Debug\netcoreapp2.0\JwtFactory.csproj.CoreCompileInputs.cache
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\obj\Debug\netcoreapp2.0\JwtFactory.AssemblyInfoInputs.cache
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\obj\Debug\netcoreapp2.0\JwtFactory.AssemblyInfo.cs
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\obj\Debug\netcoreapp2.0\JwtFactory.dll
+D:\workspace\git\EasyWebV3\BuldingBlocks\JwtFactory\obj\Debug\netcoreapp2.0\JwtFactory.pdb

@@ -1,0 +1,14 @@
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\Visitante.Domain.deps.json
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\Visitante.Domain.dll
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\Visitante.Domain.pdb
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\EasyWeb.Domain.Core.dll
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\EasyWeb.Domain.Core.pdb
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.csprojAssemblyReference.cache
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.csproj.CoreCompileInputs.cache
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.AssemblyInfoInputs.cache
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.AssemblyInfo.cs
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.csproj.CopyComplete
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.dll
+D:\workspace\git\EasyWebV3\Services\EasyWebV3.Services\Visitante\Visitante.Domain\obj\Debug\netcoreapp2.0\Visitante.Domain.pdb
