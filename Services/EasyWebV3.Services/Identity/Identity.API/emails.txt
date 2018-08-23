@@ -1,4 +1,0 @@
-To: cosme@plannerti.com.br
-Subject: Verify your email
-Message: Click <a href="http://localhost:57904/api/Account?id=266b25f4-124d-4357-9a64-7dfc484d00e6&token=CfDJ8E65BnZRf1tAoL041PgVULBHHj8Ak4N3PW9jTp%2F018XXuDctSTSPf6xVt%2FuI6ZSjCjMUwlF1%2FsMO8NPK5hgJqKIU7mUN%2FaCMYmBfvJWXIyrGVv8RCU%2BkWE2NpJUzkReWmt3jS8sgVelK6jn4T0JZtNVUrMf7louX7oH0sunwcsf%2BlpuGUsfyhfPQUuS0XWZkWein%2FEVYyO8DkiwB37IMj38s6Oe2OE9sytznpUIly21mRqbTb4jWqo4SBTQrq%2BB8Qg%3D%3D">here</a> to verify your email
-

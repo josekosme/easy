@@ -1,4 +1,0 @@
-https://stackoverflow.com/questions/47915236/angular-5-rearrange-dynamically-created-components
-https://angular.io/guide/dynamic-component-loader
-https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5
-https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121
